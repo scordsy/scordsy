@@ -1,3 +1,5 @@
+<img src=".github/banner.png" alt="Stefan Cordery. GTM Engineer, go-to-market systems built in Claude Code." width="100%">
+
 ### Hi, I'm Stefan
 
 **I build go-to-market systems in Claude Code for B2B sales and marketing teams.**
