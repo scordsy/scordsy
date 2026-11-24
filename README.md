@@ -10,11 +10,13 @@ Based in Spain.
 
 ## Start here
 
-### [skills](https://github.com/scordsy/skills): Claude skills that check AI's work before you act on it
+### [skills](https://github.com/scordsy/skills): Claude skills for everyday sales and marketing jobs, checked before you rely on them
 
-AI makes everyday sales and marketing jobs fast: a list of target accounts, a summary of a sales call, a shortlist of events. The output looks right, so it goes straight into the CRM, the outbound sequence or the events budget. Often it is quietly wrong. When I asked ChatGPT for "50 companies like our best customer" and checked a sample (15), only 1 was usable.
+Two of them check work you already have. A target account list or an AI summary of a sales call looks right, so it goes straight into the CRM or the outbound sequence. Often it is quietly wrong. When I asked ChatGPT for "50 companies like our best customer" and checked a sample (15), only 1 was usable.
 
-Each skill does one of those jobs and checks the work before you rely on it. Every finding comes with its source, and a separate checker tries to prove each finding wrong.
+The third, find-events, does the research for you: a structured search for the events worth attending to meet the people you want.
+
+All three check their own work. Every finding comes with its source, and a separate checker tries to prove each finding wrong.
 
 | Skill | What it does |
 |---|---|
